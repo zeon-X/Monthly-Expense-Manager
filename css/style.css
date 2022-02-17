@@ -1,0 +1,48 @@
+/* Header & Navbar  start */
+
+header{
+    width: 100%;
+}
+nav{
+    width: 90%;
+}
+
+.logo{
+    width: 33%;
+}
+@media screen and (max-width : 686px) {
+    .logo{
+       width: 70%;
+    }
+}
+/* Header & Navbar end */
+
+
+
+
+
+
+/* section one start */
+.section-width{
+    width: 90%;
+}
+
+.input-field-heading{
+    color: #6CBD8F;
+}
+
+.btn-design{
+    color: white;
+    background-color: #6CBD8F;
+}
+.btn-design:hover{
+    border-color: #6CBD8F;
+    background-color: white;
+    color: black;
+}
+
+
+
+/* section one end */
+
+
